@@ -572,7 +572,7 @@ header {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 2em;
+    margin-top: 3em;
 }
 .flag{
     margin-top: 1em;
